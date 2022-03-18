@@ -102,6 +102,9 @@ near-infrared spectra.
 
 The difference spectra for the above set of data are shown in the graph below.
 
+![This is an image](images/ccospectra.PNG)
+
+
 Various other visible cytochrome spectra are available by clicking on the links below:
 
 - Difference extinction spectrum of cytochrome c (380 nm - 710 nm) c
