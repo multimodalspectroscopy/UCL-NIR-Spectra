@@ -36,7 +36,7 @@ Temperature coefficient of water (OD per cm per degree C; 900 nm - 1050 nm
 Files containing the specific absorption spectra of haemoglobin (Hb) and oxyhaemoglobin (HbO2) over the near-infrared
 wavelength range 650 nm - 1042 nm may be downloaded by clicking on the links below:
 
-- Specific absorption spectrum of haemoglobin (650 nm - 1042 nm)
+- Specific absorption spectrum of haemoglobin (650 nm - 1042 nm) (UCL-NIR-Spectra/spectra/hb02.txt)
 - Specific absorption spectrum of oxyhaemoglobin (650 nm - 1042 nm)
 
 The spectra are sampled at 1 nm intervals. Each file contains a list of ascii pairs, with the format: wavelength (nm), specific
