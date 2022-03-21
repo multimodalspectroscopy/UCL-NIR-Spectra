@@ -4,7 +4,8 @@
 ## Specific Extinction Spectra of Tissue Chromophores
 
 **Important
-note**: We make an important
+note**:
+- We make an important
 distinction between specific extinction coefficient and specific
 absorption
 coefficient. While both represent the level
