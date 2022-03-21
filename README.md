@@ -21,15 +21,15 @@ extinction coefficient x
 ### 1. Water Spectrum
 A file containing the extinction coefficient of water at 37 degrees over the wavelength range 600 nm - 1050 nm may be
 downloaded by clicking on the link below:
-Extinction spectrum of pure water (600 nm -1050 nm)
+[Extinction spectrum of pure water (600 nm -1050 nm)](spectra/matcher94_nir_water_37.txt)
 The spectrum is sampled at 1 nm intervals, and contains a list of ascii pairs, with the format: wavelength (nm), extinction
 coefficient (OD per cm). The measurement of this spectrum is described by Matcher et al [2].
 The following extinction spectra were measured at 37 degrees and the temperature coefficients at each wavelength were
 measured in the range 28 - 42 degrees. These measurements are described in the Ph.D. thesis of Dr. Veronica Hollis.
-Extinction spectrum of pure water (650 nm - 924 nm)
-Temperature coefficient of water (OD per cm per degree C; 650 nm - 924 nm)
-Extinction spectrum of pure water (900 nm - 1050 nm)
-Temperature coefficient of water (OD per cm per degree C; 900 nm - 1050 nm
+[Extinction spectrum of pure water (650 nm - 924 nm)](spectra/water740_840_vhollis_2001_37.txt)
+[Temperature coefficient of water (OD per cm per degree C; 650 nm - 924 nm)](spectra/water740_840_vhollis_2001_coeff.txt)
+[Extinction spectrum of pure water (900 nm - 1050 nm)](spectra/water970_vhollis_2001_37.txt)
+[Temperature coefficient of water (OD per cm per degree C; 900 nm - 1050 nm](spectra/water970_vhollis_2001_coeff.txt)
 
 ### 2. Haemoglobin spectra
 #### 2.1 UCL Spectra
@@ -37,7 +37,7 @@ Files containing the specific absorption spectra of haemoglobin (Hb) and oxyhaem
 wavelength range 650 nm - 1042 nm may be downloaded by clicking on the links below:
 
 - [Specific absorption spectrum of haemoglobin (650 nm - 1042 nm)](spectra/hb02.txt)
-- Specific absorption spectrum of oxyhaemoglobin (650 nm - 1042 nm)
+- [Specific absorption spectrum of oxyhaemoglobin (650 nm - 1042 nm)](spectra/hb.txt)
 
 The spectra are sampled at 1 nm intervals. Each file contains a list of ascii pairs, with the format: wavelength (nm), specific
 absorption coefficient (per mm per micromolar). More details about the measurement of these spectra can be found in the
