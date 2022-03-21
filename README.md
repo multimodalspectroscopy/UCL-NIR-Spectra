@@ -5,6 +5,7 @@
 
 **Important
 note**:
+- This repository is maintained by Prof. Tachtsidis, if you have any questions email i.tachtsidis@ucl.ac.uk
 - We make an important
 distinction between specific extinction coefficient and specific
 absorption
