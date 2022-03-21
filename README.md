@@ -1,5 +1,5 @@
 # UCL NIR Spectra
-# Biomeedical Optics Research Laboratory
+# Biomedical Optics Research Laboratory (BORL)
 
 ## Specific Extinction Spectra of Tissue Chromophores
 
