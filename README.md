@@ -97,12 +97,12 @@ were all measured from bovine heart mitochondria and are described by Heinrich [
 absorption by the cytochrome oxidase complex is due to the haem a and a3 components, and not the Copper A as for the
 near-infrared spectra.
 
-- Specific extinction spectrum of oxidised cytochrome c (500 nm - 650 nm)
-- Specific extinction spectrum of reduced cytochrome c (500 nm - 650 nm)
-- Specific extinction spectrum of oxidised cytochrome b (505 nm - 640 nm)
-- Specific extinction spectrum of reduced cytochrome b (505 nm - 640 nm)
-- Specific extinction spectrum of oxidised cytochrome oxidase (500 nm - 630 nm)
-- Specific extinction spectrum of reduced cytochrome oxidase (500 nm - 630 nm)
+- [Specific extinction spectrum of oxidised cytochrome c (500 nm - 650 nm)](spectra/lubber_vis_cytc_ox.txt)
+- [Specific extinction spectrum of reduced cytochrome c (500 nm - 650 nm)](spectra/lubber_vis_cytc_red.txt)
+- [Specific extinction spectrum of oxidised cytochrome b (505 nm - 640 nm)](spectra/lubber_vis_cytb_ox.txt)
+- [Specific extinction spectrum of reduced cytochrome b (505 nm - 640 nm)](spectra/lubber_vis_cytb_red.txt)
+- [Specific extinction spectrum of oxidised cytochrome oxidase (500 nm - 630 nm)](spectra/lubber_vis_cytcox_ox.txt)
+- [Specific extinction spectrum of reduced cytochrome oxidase (500 nm - 630 nm)](spectra/lubber_vis_cytcox_red.txt)
 
 The difference spectra for the above set of data are shown in the graph below.
 
