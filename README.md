@@ -64,7 +64,7 @@ consisting of ascii pairs with the format: wavelength (nm), specific extinction 
 - [Specific extinction coefficient of adult haemiglobin (450 nm - 630 nm)](spectra/z_adult_hi_450_630.)
 - [Specific extinction coefficient of adult haemiglobin (600 nm - 800 nm)](spectra/z_adult_hi_600_800.txt)
 - [Specific extinction coefficient of adult haemiglobin (700 nm-1000 nm)](spectra/z_adult_hi_700_1000.txt)
-- [Specific extinction coefficient of adult haemiglobincyanide (450 nm - 630 nm)](spectra/(z_adult_hicn_450_630.txt)
+- [Specific extinction coefficient of adult haemiglobincyanide (450 nm - 630 nm)](spectra/z_adult_hicn_450_630.txt)
 - [Specific extinction coefficient of adult haemiglobincyanide (600 nm - 800 nm)](spectra/z_adult_hicn_600_800.txt)
 - [Specific extinction coefficient of adult sulfhaemiglobin (450 nm - 630 nm)](spectra/z_adult_shb_450_630.txt)
 - [Specific extinction coefficient of adult sulfhaemiglobin (600 nm - 800 nm)](spectra/z_adult_shb_600_800.txt)
