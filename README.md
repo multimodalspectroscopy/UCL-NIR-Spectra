@@ -82,7 +82,7 @@ polynomial fit to data published in table 8.4 of Zijlstra et al. [4].
 The difference extinction spectrum (units of OD per cm per millimole) of cytochrome oxidase (Cyt) over the wavelength
 range 650 nm - 986 nm may be downloaded by clicking on following:
 
-- Difference extinction spectrum of cytochrome oxidase (650 nm - 986 nm)
+- [Difference extinction spectrum of cytochrome oxidase (650 nm - 986 nm)](spectra/cytoxidase_diff_odmMcm.txt)
 
 Note that since the total cytochrome oxidase concentration does not change, in vivo near-infrared measurements need only
 be made of the change in redox state, and therefore it is only necessary to know the difference spectrum between the
