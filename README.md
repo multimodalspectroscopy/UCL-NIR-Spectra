@@ -111,15 +111,15 @@ The difference spectra for the above set of data are shown in the graph below.
 
 Various other visible cytochrome spectra are available by clicking on the links below:
 
-- Difference extinction spectrum of cytochrome c (380 nm - 710 nm) c
-- Difference extinction spectrum of cytochrome b (541 nm - 576 nm) d
-- Difference extinction spectrum of cytochrome c oxidase (350 nm - 700 nm) e
-- Specific extinction spectrum of oxidised cytochrome c (500 nm - 1000 nm) f
-- Specific extinction spectrum of reduced cytochrome c (500 nm - 1000 nm) f
-- Specific extinction spectrum of oxidised cytochrome b (402 nm - 997 nm) g
-- Specific extinction spectrum of reduced cytochrome b (402 nm - 997 nm) g
-- Specific extinction spectrum of oxidised cytochrome c oxidase (520 nm - 999 nm) h
-- Specific extinction spectrum of reduced cytochrome c oxidase (520 nm - 999 nm) h
+- [Difference extinction spectrum of cytochrome c (380 nm - 710 nm) c ](spectra/springett-cooper95_vis_cytc_diff.txt)
+- [Difference extinction spectrum of cytochrome b (541 nm - 576 nm) d ](spectra/rich_vis_cytb_diff_1nmshifted.txt)
+- [Difference extinction spectrum of cytochrome c oxidase (350 nm - 700 nm) e ](spectra/lubber_vis_cytc_ox.txt)
+- [Specific extinction spectrum of oxidised cytochrome c (500 nm - 1000 nm) f ](spectra/cooper%20pig%20c%20oxidised.txt)
+- [Specific extinction spectrum of reduced cytochrome c (500 nm - 1000 nm) f ](spectra/cooper%20pig%20c%20reduced.txt)
+- [Specific extinction spectrum of oxidised cytochrome b (402 nm - 997 nm) g ](spectra/cope%20cyt%20b%20oxidised.txt)
+- [Specific extinction spectrum of reduced cytochrome b (402 nm - 997 nm) g ](spectra/cope%20cyt%20b%20reduced.txt)
+- [Specific extinction spectrum of oxidised cytochrome c oxidase (520 nm - 999 nm) h ](spectra/moody%20cyt%20aa3%20oxidised.txt)
+- [Specific extinction spectrum of reduced cytochrome c oxidase (520 nm - 999 nm) h ](spectra/moody%20cyt%20aa3%20reduced.txt)
 
 c This was measured on bovine mitochondria by Springett and Cooper at UCL in 1995.
 
