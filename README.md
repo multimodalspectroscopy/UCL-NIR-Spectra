@@ -115,7 +115,7 @@ Various other visible cytochrome spectra are available by clicking on the links 
 
 - [Difference extinction spectrum of cytochrome c (380 nm - 710 nm) c ](spectra/springett-cooper95_vis_cytc_diff.txt)
 - [Difference extinction spectrum of cytochrome b (541 nm - 576 nm) d ](spectra/rich_vis_cytb_diff_1nmshifted.txt)
-- [Difference extinction spectrum of cytochrome c oxidase (350 nm - 700 nm) e ](spectra/lubber_vis_cytc_ox.txt)
+- [Difference extinction spectrum of cytochrome c oxidase (350 nm - 700 nm) e ](spectra/spectra/liao96_vis_cytaa3_diff.txt)
 - [Specific extinction spectrum of oxidised cytochrome c (500 nm - 1000 nm) f ](spectra/cooper%20pig%20c%20oxidised.txt)
 - [Specific extinction spectrum of reduced cytochrome c (500 nm - 1000 nm) f ](spectra/cooper%20pig%20c%20reduced.txt)
 - [Specific extinction spectrum of oxidised cytochrome b (402 nm - 997 nm) g ](spectra/cope%20cyt%20b%20oxidised.txt)
