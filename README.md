@@ -42,8 +42,8 @@ measured in the range 28 - 42 degrees. These measurements are described in the P
 Files containing the specific absorption spectra of haemoglobin (Hb) and oxyhaemoglobin (HbO2) over the near-infrared
 wavelength range 650 nm - 1042 nm may be downloaded by clicking on the links below:
 
-- [Specific absorption spectrum of haemoglobin (650 nm - 1042 nm)](spectra/hb02.txt)
-- [Specific absorption spectrum of oxyhaemoglobin (650 nm - 1042 nm)](spectra/hb.txt)
+- [Specific absorption spectrum of oxyhaemoglobin (650 nm - 1042 nm)](spectra/hb02.txt)
+- [Specific absorption spectrum of deoxyhaemoglobin (650 nm - 1042 nm)](spectra/hb.txt)
 
 The spectra are sampled at 1 nm intervals. Each file contains a list of ascii pairs, with the format: wavelength (nm), specific
 absorption coefficient (per mm per micromolar). More details about the measurement of these spectra can be found in the
